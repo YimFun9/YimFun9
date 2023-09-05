@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=180&section=header&text=Yim%20Tae%20Gyoung&fontSize=50&fontAlignY=36&fontColor=ffffff" />
 
 
 ### Hi there 👋
